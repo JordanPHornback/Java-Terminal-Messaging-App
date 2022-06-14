@@ -12,3 +12,6 @@ Clients already in the chat will be notified of each new client that joins.
 Messages will be announced to all clients (not the one who sent it) prefaced with the sender's username.
 
 Currently there is a bug where the Server will crash if a client disconnects, working on fixing that now.
+
+Attempting to add a GUI instead of running this in terminal. If I can't figure it out for
+this project, I'll just create a new one.
